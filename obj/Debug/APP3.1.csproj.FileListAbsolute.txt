@@ -1,0 +1,7 @@
+C:\Users\meshmi\source\repos\APP3.1\bin\Debug\APP3.1.exe.config
+C:\Users\meshmi\source\repos\APP3.1\bin\Debug\APP3.1.exe
+C:\Users\meshmi\source\repos\APP3.1\bin\Debug\APP3.1.pdb
+C:\Users\meshmi\source\repos\APP3.1\obj\Debug\APP3.1.csprojAssemblyReference.cache
+C:\Users\meshmi\source\repos\APP3.1\obj\Debug\APP3.1.csproj.CoreCompileInputs.cache
+C:\Users\meshmi\source\repos\APP3.1\obj\Debug\APP3.1.exe
+C:\Users\meshmi\source\repos\APP3.1\obj\Debug\APP3.1.pdb
